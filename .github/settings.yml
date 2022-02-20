@@ -1,6 +1,6 @@
 repository:
   name: test-repository
-  description: A test repository to try out different GitHub related workfows
+  description: A test repository to try out different GitHub related workflows
   topics: github
 
   private: false
