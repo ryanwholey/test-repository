@@ -28,6 +28,7 @@ branches:
         strict: true
         contexts:
           - test
+          - pr-lint
       enforce_admins: false    
       required_linear_history: true
       restrictions: null
